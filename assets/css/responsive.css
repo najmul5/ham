@@ -1,0 +1,327 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+ .service-menu li a {
+    padding: 11px
+}
+.newsletter form .form-group input {
+     width: 70%; 
+}
+.newsletter form .form-group button.btn {
+     width: 30%;
+    margin-left: -4px;
+}
+.recent-post-info h6 {
+    font-size: 12px;
+}
+.recent-post-info {
+    line-height: 19px;
+}
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.navbar-nav {
+    display: table-caption;
+    padding: 0 20px;
+}
+.mainmenu li {
+    padding: 5px 0px;
+}
+ .heroarea-inner h1 {
+    font-size: 60px;
+}
+.heroarea-inner p, .heroarea-inner h3 {
+    font-size: 30px;
+}
+.heroarea-carousel.owl-carousel .owl-dots,
+.keep-in-touch-img {
+    display: none;
+}
+.single-megamenu i {
+    font-size: 40px;
+}
+.single-megamenu{
+	height: 180px;
+	font-size: 12px;
+}
+.title-section {
+    text-align: center;
+    margin-bottom: 25px;
+}
+#about, 
+#our-work, 
+#service, 
+#purchase, 
+#breaking-news, 
+#pricing-tabel, 
+#feedback, 
+#team, 
+#extra-ordinary,
+#keepintouch,
+.footer {
+    padding: 45px 0;
+}
+.box-shape {
+    display: none;
+}
+#about .title-section {
+    text-align: center;
+}
+.single-work-item {
+    height: 200px;
+    margin-bottom: 5px;
+}
+.service-menu li a {
+    font-size: 12px;
+    padding: 15px 8px;
+}
+.purchase-inner .btn-explore {
+    margin-top: 14px;
+    padding: 8px 16px;
+}
+.purchase-inner h1{
+	font-size: 24px;
+}
+.purchase-inner p{
+	font-size: 12px;
+}
+.single-breaking-news-info h6 {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.info-title {
+    font-size: 15px;
+}
+.counter-box-icon {
+    height: 70px;
+    width: 70px;
+    line-height: 69px;
+    font-size: 24px;
+}
+.counter-box-icon-inner i {
+    padding: 15px;
+}
+.single-counter-box {
+    height: 210px;
+}
+.single-feedback-carousel .quote i {
+    font-size: 30px;
+}
+.single-feedback-carousel p {
+    font-size: 13px;
+}
+.owl-carousel .feedback-author-image img{
+    height: 100px;
+    width: 100px;
+}
+.feedback-carousel.owl-carousel .owl-nav div {
+    left: 4%;
+}
+.feedback-carousel.owl-carousel .owl-nav .owl-next {
+    right: 4%;
+}
+.single-team-box {
+    margin-bottom: 30px;
+}
+.extraordinary-bg {
+    left: -22px;
+    bottom: -45px;
+}
+.extraordinary-title h2 {
+    font-size: 30px;
+}
+.extraordinary-title h2 span {
+    font-size: 90%;
+}
+.newsletter {
+    text-align: center;
+    margin-bottom: 36px;
+}
+.recent-post h5 {
+    margin-bottom: 27px;
+    margin-top: 17px;
+}
+.tags h5, .flicke-feed h5 {
+    margin-bottom: 8px;
+}
+.single-flicke {
+    width: 29%;
+    text-align: center;
+}
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.navbar-nav {
+    display: table-caption;
+    padding: 0 20px;
+}
+.mainmenu li {
+    padding: 5px 0px;
+} 
+.box-shape,
+.heroarea-carousel.owl-carousel .owl-dots,
+.feedback-carousel.owl-carousel .owl-dots,
+.extraordinary-bg,
+.heroarea-carousel.owl-carousel .owl-nav div,
+.keep-in-touch-img {
+    display: none;
+}
+#heroarea {
+    height: auto;
+    padding: 30px 15px;
+}
+#about, 
+#our-work, 
+#service, 
+#purchase, 
+#breaking-news, 
+#pricing-tabel, 
+#feedback, 
+#team, 
+#extra-ordinary,
+#keepintouch,
+.footer{
+	padding: 15px 0;
+}
+.heroarea-inner h3 {
+    font-size: 20px;
+}
+.heroarea-inner h1 {
+    font-size: 33px;
+}
+.heroarea-inner p {
+    font-size: 16px;
+}
+.single-megamenu i {
+    font-size: 42px;
+}
+.single-megamenu {
+    width: 50%;
+    font-size: 12px;
+}
+.feature-item-icon {
+    width: 27%;
+    float: left;
+    text-align: right;
+}
+
+.feature-title {
+    width: 69%;
+    float: right;
+    margin-top: -30px;
+}
+.about-menu li a {
+    font-size: 13px;
+}
+.title-section {
+    text-align: center;
+    margin-bottom: 3px;
+}
+.title-section h2 {
+    font-size: 18px;
+}
+.work-menu {
+    margin-bottom: 20px;
+}
+.work-menu button {
+    font-size: 12px;
+    padding: 3px 5px;
+}
+.single-work-item {
+    height: 165px;
+    margin-bottom: 10px;
+}
+.work-item-load-morebtn button.btn {
+    margin-top: 20px;
+}
+.service-menu li a {
+    font-size: 7px;
+    font-weight: 700;
+    padding: 8px 3px;
+}
+.tab-pane-img {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.single-counter-box {
+    width: 50%;
+}
+.feedback-carousel.owl-carousel .owl-nav div {
+    left: 5%;
+    bottom: 50%;
+    font-size: 14px;
+}
+.feedback-carousel.owl-carousel .owl-nav .owl-next {
+    right: 5%;
+    left: auto;
+}
+.single-team-box {
+    margin-bottom: 22px;
+}
+
+#extra-ordinary{
+	text-align: center;
+}
+.extraordinary-title h2 {
+    font-size: 27px;
+}
+.extraordinary-list {
+    display: table;
+    text-align: left;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.office-location{
+margin-top: 26px;
+}
+.recent-post h5, .tags h5, .flicke-feed h5{
+	margin: 15px 0;
+}
+.recent-post-img {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.newsletter {
+    text-align: center;
+}
+.feature-title h4 {
+    font-size: 14px;
+}
+
+    
+}
+/* Wide Mobile Layout: 375px. */
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+.service-menu li a:nth-child(1) {
+    border-right-color: #ccc;
+}
+.service-menu li a {
+    margin-bottom: 20px;
+}
+.service-menu {
+    text-align: center;
+    margin-bottom: 0;
+}
+.about-menu li a {
+    font-size: 9px;
+    padding: 14px 0px;
+}
+.work-menu button {
+    font-size: 9px;
+    padding: 3px 2px;
+}
+.purchase-inner h1 {
+    font-size: 20px;
+}
+.purchase-inner p {
+    font-size: 12px;
+}
+.btn-purchase, .btn-explore {
+    margin-top: 10px !important;
+    padding: 12px !important;
+    font-size: 12px;
+}
+
+}
